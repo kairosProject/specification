@@ -12,3 +12,7 @@ A user is able to connect to the application. By this way, this user is stored i
 ### Password consideration
 
 The password of a user must be encrypted to follow the minimum security consideration. Argon2 should be used as PHP7.2 is used.
+
+## Access
+
+An endpoint must be provided to display the complete list of user.
